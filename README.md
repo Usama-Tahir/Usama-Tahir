@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usama-tahir" alt="usama-tahir" /> </p>
 
-- 🔭 I’m currently working on [ArzePak](https://arzepak.com/)
-
-- 💬 Ask me about **React, node**
+- 💬 Ask me about **anything related to JS**
 
 - 📫 How to reach me **usama.tahir116@gmail.com**
 
